@@ -9,15 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/getintodevops/masterclass-codeexamples/"
+/*    "url": "https://github.com/getintodevops/masterclass-codeexamples/" */
+     "url": "https://github.com/rajendraallada/masterclass-codeexamples/" 
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "miiro@getintodevops.com",
-  "license": "ISC",
+/*  "author": "miiro@getintodevops.com",
+  "license": "ISC", */
   "devDependencies": { "test": ">=0.6.0" }
 }
 
