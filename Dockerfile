@@ -9,7 +9,7 @@ RUN curl -fsSLO https://get.docker.com/builds/Linux/x86_64/docker-17.04.0-ce.tgz
 
 # set maintainer
 #LABEL maintainer "miiro@getintodevops.com"
-LABEL maintainer "Rajendra"
+LABEL maintainer "Rajendra kumar Allada"
 
 # set a health check
 HEALTHCHECK --interval=5s \
